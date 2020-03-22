@@ -618,6 +618,10 @@ a.dotted-link:hover {
   color: #545e69;
 }
 
+.apexcharts-menu-icon{
+  opacity: 0;
+}
+
 /* ======= Footer ======= */
 .footer {
   background: #32383e;

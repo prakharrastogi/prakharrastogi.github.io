@@ -61,12 +61,13 @@ var options = {
         ],
         max: 100,
         labels: {
-            show: false}
+            show: false
+        }
+    },
+    legend: {
+        show: false
     }
 };
 
 var chart = new ApexCharts(document.querySelector("#chart"), options);
 chart.render();
-
-document.getElementsByClassName('apexcharts-legend')[0].style.opacity = 0;
-document.getElementsByClassName('apexcharts-menu-icon')[0].style.opacity = 0;
