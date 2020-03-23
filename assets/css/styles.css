@@ -139,7 +139,7 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .desc {
-  color: #778492;
+  color: #656c73;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -409,7 +409,7 @@ a.dotted-link:hover {
 /* Info Section */
 .info .svg-inline--fa {
   margin-right: 15px;
-  color: #ccd1d6;
+  color:#656c73;
 }
 
 .info .svg-inline--fa.fa-envelope-o {

@@ -66,6 +66,9 @@ var options = {
     },
     legend: {
         show: false
+    },
+    grid: {
+        show: false
     }
 };
 
