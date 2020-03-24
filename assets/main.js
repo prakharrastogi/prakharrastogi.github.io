@@ -62,6 +62,12 @@ var options = {
         max: 100,
         labels: {
             show: false
+        },
+        axisTicks: {
+            show: false
+        },
+        axisBorder: {
+            show: false
         }
     },
     legend: {
